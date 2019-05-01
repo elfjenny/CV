@@ -1,0 +1,35 @@
+@font-face {
+   font-family: arimo, calibri;
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+p 
+{
+ 	text-shadow: 4px 7px 8px blue;
+}
+
+h1 
+{
+	border: 2px blue solid;
+	border-radius: 15px;
+    text-align: center;
+ 
+}
+
+
+body
+{
+	background-image: url(http://blog.redinteractiv.com/wp-content/uploads/2009/11/11.jpg); 	
+	font-family:  'cac_champagneregular', arial, verdana, ;
+	font-size: 30px;
+}
+
+p
+{
+	color: blue;
+	text-align: center;
+}
+
+
